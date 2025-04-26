@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web and App Developer to be from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeehamuhammadhanif&label=Profile%20views&color=0e75b6&style=flat" alt="sajeehamuhammadhanif" /> </p>
+<p align="-20px"> <img src="https://komarev.com/ghpvc/?username=sajeehamuhammadhanif&label=Profile%20views&color=0e75b6&style=flat" alt="sajeehamuhammadhanif" /> </p>
 
 - 🌱 I’m currently learning **Web and Development**
 
